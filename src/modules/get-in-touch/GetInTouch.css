@@ -1,0 +1,56 @@
+.GetInTouch_background{
+    width: 100%;
+    height: 310px;
+    background: #2C1258;
+
+}
+.text-information{
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 250px;
+    color: white;
+
+}
+.background-peace{
+    background: url('../../assets/GetInTouch_background_peace.png');
+    width: 100%;
+    background-size: cover;
+    height: 115px;
+
+}
+.GetInTouch-information-blocks{
+    display: flex;
+    justify-content: space-evenly;
+}
+.address{
+
+    width: 367px;
+    height: 283px;
+    border: 1px solid black;
+    background: white;
+    border-radius: 16px;
+}
+.geo-img{
+    width: 39px;
+    height: 54px;
+
+
+}
+.book{
+     width: 367px;
+     height: 283px;
+     border: 1px solid black;
+     background: white;
+     border-radius: 16px;
+
+ }.mail{
+      width: 367px;
+      height: 283px;
+       border: 1px solid black;
+       background: white;
+    border-radius: 16px;
+  }
